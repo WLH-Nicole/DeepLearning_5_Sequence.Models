@@ -1,1 +1,1 @@
-# DeepLearning_5_Sequence.Models
+## Sequence Models (deeplearning.ai on Coursera)
